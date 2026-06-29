@@ -1,0 +1,167 @@
+canonical_identifier: bkk:krp/KR3ei068/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ei068/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 濟生產寶
+  identifiers:
+    krp: KR3ei068
+  tags:
+    kr-categories: KR3ei
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ei068.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ei068_000-jc.yaml, hash: 'sha256:ce8234beed2013c6d5781b982167580a4c0ff686d061623f4bcb8d47b568f43b'}
+  - {seq: 1, filename: KR3ei068_001-jc.yaml, hash: 'sha256:700d286631e53682a5924d7955d70e8ab4b3b603a9aa6778751f197c2b8bfc28'}
+  - {seq: 3, filename: KR3ei068_003-jc.yaml, hash: 'sha256:48682e86324b466dbd38dacf156606660ecb25d1e6a0a87313c01f050b7c49d1'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ei068_000-jc.markers.yaml, hash: 'sha256:4fa18db9117e25902f4b6112a6fd8f81bf42e4098ac9f73581be6ebbf3fe39e4'}
+  - {seq: 1, role: markers, filename: assets/KR3ei068_001-jc.markers.yaml, hash: 'sha256:23d7b70aaa34a5b02e91eeff8c799275bbee598cea5e0d3b448e59ff56035a1c'}
+  - {seq: 3, role: markers, filename: assets/KR3ei068_003-jc.markers.yaml, hash: 'sha256:e004ebd2560199b0e747eba42a46e8c2c963b5bb6963ed5da976e5781d3ff17d'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ei068_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 267
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ei068_jc_001-d3.h1s1
+    span:
+    - body
+    - 0
+    - 15386
+  label: 上卷
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ei068_jc_001-d3d2
+    span:
+    - body
+    - 2
+    - 238
+  label: 濟生產寶論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei068_jc_001-d3d3
+    span:
+    - body
+    - 238
+    - 459
+  label: 產寶病源論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei068_jc_001-d3d4
+    span:
+    - body
+    - 459
+    - 816
+  label: 精血論出齊光祿大夫褚澄遺書
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei068_jc_001-d3d5
+    span:
+    - body
+    - 816
+    - 1279
+  label: 月經不調論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei068_jc_001-d3d6
+    span:
+    - body
+    - 1279
+    - 1673
+  label: 婦人論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei068_jc_001-d3d7
+    span:
+    - body
+    - 1673
+    - 2379
+  label: 求子論治
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei068_jc_001-d3d8
+    span:
+    - body
+    - 2379
+    - 2955
+  label: 惡阻論治
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei068_jc_001-d3d9
+    span:
+    - body
+    - 2955
+    - 3533
+  label: 子煩證論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei068_jc_001-d3d10
+    span:
+    - body
+    - 3533
+    - 12146
+  label: 胎前十八證問答
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei068_jc_001-d3d11
+    span:
+    - body
+    - 12146
+    - 15386
+  label: 總論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei068_jc_003-d4.h1s1
+    span:
+    - body
+    - 0
+    - 3200
+  label: 下卷
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ei068_jc_003-d4d2
+    span:
+    - body
+    - 2
+    - 3200
+  label: 郭稽中產後二十一證論評方
+  type: section
+  level: 2
+hash: sha256:fffae49134bf88663cdd5fb94223b7a38bdd2e9b70fe0e8fdf3e9866ed32c59d
