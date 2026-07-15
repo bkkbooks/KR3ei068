@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ei068/v1
 canonical_location: https://kanripo.org/bkk/KR3ei068/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 濟生產寶
   identifiers:
@@ -16,13 +16,13 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ei068_000.yaml, hash: 'sha256:ce8234beed2013c6d5781b982167580a4c0ff686d061623f4bcb8d47b568f43b'}
-  - {seq: 1, filename: KR3ei068_001.yaml, hash: 'sha256:700d286631e53682a5924d7955d70e8ab4b3b603a9aa6778751f197c2b8bfc28'}
-  - {seq: 3, filename: KR3ei068_003.yaml, hash: 'sha256:48682e86324b466dbd38dacf156606660ecb25d1e6a0a87313c01f050b7c49d1'}
+  - {seq: 0, filename: KR3ei068_000.yaml, hash: 'sha256:7622560bf624c589d28fa6b3f5b6fa96256cdabe269a98e511d537f18d6c47a7'}
+  - {seq: 1, filename: KR3ei068_001.yaml, hash: 'sha256:69b5a7d4066f17315a7dce01c7625779564144c63b4ccdb4c5f1e05f0a78e875'}
+  - {seq: 3, filename: KR3ei068_003.yaml, hash: 'sha256:594ee2bb395bedf6e85576273b5a59e23d8bc1e19c007d3c4d4ce841abe58d1c'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ei068_000.markers.yaml, hash: 'sha256:18970a31152a1e97d06f78f690e6ab4f626a1b460eb6aafa2c1473c1adff8d42'}
-  - {seq: 1, role: markers, filename: assets/KR3ei068_001.markers.yaml, hash: 'sha256:d14560bb69a75d3b9b1c91c91b964740300f117c556031f0197595ea9e1babaa'}
-  - {seq: 3, role: markers, filename: assets/KR3ei068_003.markers.yaml, hash: 'sha256:b72941417b3256fcb9098ac4a056a823af6070b110cc53bffb5e6ad0f3142f40'}
+  - {seq: 0, role: markers, filename: assets/KR3ei068_000.markers.yaml, hash: 'sha256:5a38a635a2d16bcfd657a2aabdfe286a617adf3cb1307a646a5d426466302ce9'}
+  - {seq: 1, role: markers, filename: assets/KR3ei068_001.markers.yaml, hash: 'sha256:4e4b33b53323f1c4533e42f80c09a72da8243766c4a781aaeab00831243105e3'}
+  - {seq: 3, role: markers, filename: assets/KR3ei068_003.markers.yaml, hash: 'sha256:4db8f9422a0e2515cb0452b4287e22146d0fecda937be374b82e85437be9ac2b'}
 table_of_contents:
 - ref:
     seq: 0
@@ -164,4 +164,7 @@ table_of_contents:
   label: 郭稽中產後二十一證論評方
   type: section
   level: 2
-hash: sha256:cd05800dc3198a369d78d29c77d10208ef0cb9937543d3a5360089f68b7f3b59
+hash: sha256:226836009229287b88658ef8c3d65799bc7cb4bb82261af20feec7935822895f
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
