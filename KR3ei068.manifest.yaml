@@ -21,8 +21,8 @@ assets:
   - {seq: 3, filename: KR3ei068_003.yaml, hash: 'sha256:594ee2bb395bedf6e85576273b5a59e23d8bc1e19c007d3c4d4ce841abe58d1c'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR3ei068_000.markers.yaml, hash: 'sha256:5a38a635a2d16bcfd657a2aabdfe286a617adf3cb1307a646a5d426466302ce9'}
-  - {seq: 1, role: markers, filename: assets/KR3ei068_001.markers.yaml, hash: 'sha256:4e4b33b53323f1c4533e42f80c09a72da8243766c4a781aaeab00831243105e3'}
-  - {seq: 3, role: markers, filename: assets/KR3ei068_003.markers.yaml, hash: 'sha256:4db8f9422a0e2515cb0452b4287e22146d0fecda937be374b82e85437be9ac2b'}
+  - {seq: 1, role: markers, filename: assets/KR3ei068_001.markers.yaml, hash: 'sha256:55d6f976090ace4a1bb944a6f58c7373429f5004d735b6ac105ea5585f697b0b'}
+  - {seq: 3, role: markers, filename: assets/KR3ei068_003.markers.yaml, hash: 'sha256:477be7193392c5de7c48644ea8278435fea4d2fad15de07f46edd5f7a615713d'}
 table_of_contents:
 - ref:
     seq: 0
@@ -164,7 +164,7 @@ table_of_contents:
   label: 郭稽中產後二十一證論評方
   type: section
   level: 2
-hash: sha256:226836009229287b88658ef8c3d65799bc7cb4bb82261af20feec7935822895f
+hash: sha256:df62f6a00afa2f91f0ec9017b2e18db1a1ba0d193705fe9a97474c4fa7d0d39c
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
