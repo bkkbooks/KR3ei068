@@ -16,11 +16,11 @@ metadata:
     short: jc
 assets:
   parts:
-  - {seq: 0, filename: KR3ei068_000-jc.yaml, hash: 'sha256:ce8234beed2013c6d5781b982167580a4c0ff686d061623f4bcb8d47b568f43b'}
+  - {seq: 0, filename: KR3ei068_000-jc.yaml, hash: 'sha256:4a8ff5557a16ccc51d074e7f5df8d1d68e95b531dae3d4a33ca3235c9fe07acc'}
   - {seq: 1, filename: KR3ei068_001-jc.yaml, hash: 'sha256:700d286631e53682a5924d7955d70e8ab4b3b603a9aa6778751f197c2b8bfc28'}
   - {seq: 3, filename: KR3ei068_003-jc.yaml, hash: 'sha256:48682e86324b466dbd38dacf156606660ecb25d1e6a0a87313c01f050b7c49d1'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ei068_000-jc.markers.yaml, hash: 'sha256:4fa18db9117e25902f4b6112a6fd8f81bf42e4098ac9f73581be6ebbf3fe39e4'}
+  - {seq: 0, role: markers, filename: assets/KR3ei068_000-jc.markers.yaml, hash: 'sha256:69f4a338aeab5019fbd15a6989f7eda03cd7412a8c83c8981b3d7725204fe43b'}
   - {seq: 1, role: markers, filename: assets/KR3ei068_001-jc.markers.yaml, hash: 'sha256:6bd72bd5448bd141023b1bd5b96bc2a98d17a2e88a3291328aadfa6474aa256b'}
   - {seq: 3, role: markers, filename: assets/KR3ei068_003-jc.markers.yaml, hash: 'sha256:07b1feb73082824a51de4731859344e38d4c369914a4044a3d49725cb0114b27'}
 table_of_contents:
@@ -28,7 +28,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ei068_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 267
   label: 序
@@ -164,4 +164,4 @@ table_of_contents:
   label: 郭稽中產後二十一證論評方
   type: section
   level: 2
-hash: sha256:f4c8f832cbcbccd32caaccd6d3f881578e04bb7bca0ead6eea24439508daa87a
+hash: sha256:5de23bba572de4595bdc992441db2b777ecd82cc5908648364737050288dafbf
